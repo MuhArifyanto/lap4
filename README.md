@@ -1,5 +1,3 @@
-# Installation environmet virtual (venv) dan Deactive Visual studio Code
-
 # praktikum 9
 * Code ini adalah program sederhana dalam bahasa Python yang memanfaatkan pustaka Tabulate untuk mengumpulkan data nilai mahasiswa dan menampilkan hasilnya dalam bentuk tabel. Program berjalan dalam perulangan dimana pengguna diminta untuk memasukkan data mahasiswa, termasuk nama, NIM (Nomor Induk Mahasiswa), nilai tugas, nilai UTS, dan nilai UAS. Setelah data dimasukkan, nilai akhir dihitung berdasarkan bobot tertentu dan disimpan dalam bentuk dictionary. Pengaturan tata letak tabel, termasuk penataan angka dan teks, diatur menggunakan parameter numalign dan stralign.
 
